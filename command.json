@@ -1,0 +1,166 @@
+{
+    "help": [
+        {
+            "command": "about me",
+            "helpText": "To view about me."
+        },
+        {
+            "command": "education",
+            "helpText": "To view about my education."
+        },
+        {
+            "command": "experience",
+            "helpText": "To view my Experiences"
+        },
+        {
+            "command": "projects",
+            "helpText": "To view my Projects"
+        },
+        {
+            "command": "certifications",
+            "helpText": "To view my Certifications and Specializations"
+        },
+        {
+            "command": "languages",
+            "helpText": "To view my languages."
+        },
+        {
+            "command": "theme",
+            "helpText": "To change the theme of the console"
+        },
+        {
+            "command": "clear",
+            "helpText": "To clear the console"
+        }
+    ],
+    "education": [
+        {
+            "orgName": "Pandit Deendayal Energy University (B.Tech)",
+            "course": "Information And Communication Technology",
+            "tenure": "2019-2023",
+            "marks": "9.12"
+        },
+        {
+            "orgName": "Florescent Public School (GSHSEB)",
+            "course": "HSC",
+            "tenure": "2018-2019",
+            "marks": "45%"
+        },
+        {
+            "orgName": "Sattva Vikas School (CBSE)",
+            "course": "SSC",
+            "tenure": "2016-2017",
+            "marks": "7.4"
+        }
+    ],
+    "experience": [
+        {
+            "orgName": "Sharvaya Infotech",
+            "position": "DotNet Developer",
+            "tenure": "May 2023 - July 2023",
+            "remarks": "- Build and Maintain ERP and CRM Software in .NET. <br/>- Custom Software as per the client’s requirement. <br/>- Create and maintained SQL Database."
+        }
+    ],
+    "projects": [
+        {
+            "title": "GreekPirate90-Portfolio-Website— Gaming Portfolio Template",
+            "description": "- It is website template for gaming portfolio or gaming organization.",
+            "link": "- https://github.com/parv90/GreekPirate90-Portfolio-1.git.io <br/>- https://github.com/parv90/GreekPirate90-Portfolio-2.git.io"
+        },
+        {
+            "title": "TaskList",
+            "description": "- Basic Task manager. <br/>- Functionalities like add a task, delete tasks, clear all tasks, and filter a search of tasks. <br/>- A Project made to learn the basics and logic of javascript.",
+            "link": "- https://github.com/parv90/TaskList.git.io"
+        },
+        {
+            "title": "Gradientiser-BgGenerator",
+            "description": "- An open-source project by Nirbhay Parmar. <br/>- A simple website to generate gradient background. <br/>- Helped to improve the UI of the website and added new logic to help the degree of gradient.",
+            "link": "- https://github.com/parv90/gradientiser-BgGenerator"
+        },
+        {
+            "title": "Hospital Website Template",
+            "description": "- It is website template for hospital portfolio or hospital organization. <br/>- Simple and user-friendly UI. <br/>-  Made for the local competition held at PDEU.",
+            "link": "- https://github.com/parv90/HospitalWeb.git.io"
+        },
+        {
+            "title": "Amazon Price Check",
+            "description": "- This program will continuesly check for the price of user inputed product at amazon and send an email when price goes the below the user inputed limit.",
+            "link": "- https://github.com/parv90/AmazonPriceCheck"
+        },
+        {
+            "title": "Data Structure",
+            "description": "- Basic data structure concepts coded in javascript for learning and referring.",
+            "link": "- https://github.com/parv90/DataStructure"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Modern JavaScript from The Beginning Certificate from Udemy by Brad Traversy",
+            "status": "Completed",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/course/modern-javascript-from-the-beginning/"
+        },
+        {
+            "title": "Data Structures and Algorithm from Udemy by ZeroToMastery",
+            "status": "Completed",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/"
+        },
+        {
+            "title": "Modern JavaScript from The Beginning Certificate from Udemy by Brad Traversy",
+            "status": "Completed",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/course/modern-javascript-from-the-beginning/"
+        },
+        {
+            "title": "The Joy of Computing using Python from NPTEL",
+            "status": "Completed",
+            "platform": "NPTEL",
+            "link": "https://onlinecourses.nptel.ac.in/noc22_cs122/preview"
+        },
+        {
+            "title": "Complete Ethical Hacking Bootcamp 2022 from Udemy by ZeroToMastery",
+            "status": "Completed",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/"
+        },
+        {
+            "title": "The Complete Web Developer in 2022: Zero to Mastery",
+            "status": "Ongoing",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/"
+        },
+        {
+            "title": "Complete Machine Learning & Data Science Bootcamp 2022",
+            "status": "Ongoing",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "JavaScript",
+            "frameworks": "- vanilla<br/>- React"
+        },
+        {
+            "lang": "HTML CSS",
+            "frameworks": "-"
+        },
+        {
+            "lang": "Python",
+            "frameworks": "- Scikit-learn<br/>- Matplotlib<br/>- Numpy<br/>- Pandas"
+        },
+        {
+            "lang": "C#",
+            "frameworks": "- DotNet<br/>- Unity And Unreal Engine"
+        },
+        {
+            "lang": "Java",
+            "frameworks": "-"
+        },
+        {
+            "lang": "SQL",
+            "frameworks": "- MySQL"
+        }
+    ]
+}

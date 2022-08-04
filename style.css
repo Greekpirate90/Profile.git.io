@@ -1,0 +1,39 @@
+@import 'https://fonts.googleapis.com/css?family=Ubuntu';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #16C60C;
+    background : #111; 
+    font-family: 'Ubuntu', sans-serif; 
+    font-size : 20px ;
+}
+
+.window {
+    padding:5px;
+    line-height:1.4em;
+}
+
+.container {
+    display: flex;
+}
+
+.old-container {
+    display: flex;
+}
+
+.header {
+    margin-right: 4px;
+}
+
+.old-header {
+    margin-right: 4px;
+}
+
+.banner {
+    font-family: 'Courier New', Courier, monospace;
+}
